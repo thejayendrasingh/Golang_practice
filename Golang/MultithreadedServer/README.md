@@ -4,7 +4,7 @@
 # Usage
 ## Server
 - Open new terminal
-- Git fetch code from [server/](https://github.com/thejayendrasingh/GolangPractice)
+- Git fetch code from [this repo](https://github.com/thejayendrasingh/Golang_practice.git)
 - Go to ```Golang/MultithreadedServer/Server``` folder
 - Run ```make build``` command from root of server folder
 - Run command ```./go_server``` to start server
